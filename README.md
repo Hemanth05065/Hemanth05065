@@ -2,7 +2,7 @@
 I’m a **2nd-year CSE-AIML student** who believes that true innovation happens at the intersection of **Artificial Intelligence** and **Physical Hardware**. I don't just want to build models; I want to build systems that solve real-world problems.<br><br>### 🔍 How I Think<br><br>I see every technical challenge as a "Capture The Flag" (CTF) event—a puzzle that requires both a high-level strategy and a deep understanding of the underlying infrastructure. Whether I’m hosting a **"Shell Smash" CTF** for my university or troubleshooting a local server on a VM, I enjoy the "under-the-hood" mechanics of technology.<br><br>### 🛰️ What I Build<br><br>* **AI for Impact:** I’ve developed **Crop Health Management Systems** and predictive models (like Sales Forecasters and Churn Predictors) to turn raw data into actionable insights.<br>* **Hardware for Resilience:** I’m fascinated by **LoRa-based mesh networks**. I built a rescue device for disaster scenarios because I believe communication shouldn't stop just because the mobile network does.<br>* **The "Fixer" Mindset:** My curiosity doesn't stop at the code. I’m just as comfortable repairing a laptop motherboard or a bike’s spark plug wire as I am writing a Python script.<br><br>### 📚 My Current Mission<br><br>Right now, I’m following a rigorous **DSA and ML roadmap**, sharpening my algorithmic thinking while exploring the latest in Deep Learning. I’m a firm believer in "learning by doing"—if it’s broken, I’ll fix it; if it doesn't exist, I'll build it.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arhemanth) 
 
 # 💻 Tech Stack:
