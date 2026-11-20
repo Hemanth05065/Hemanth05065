@@ -1,38 +1,42 @@
-# 💫 About Me:
+<h1 align="center">A.R. Hemanth</h1>
 
-I’m a **2nd-year CSE-AIML student** who believes that true innovation happens at the intersection of **Artificial Intelligence** and **Physical Hardware**. I don't just want to build models; I want to build systems that solve real-world problems.
+<p align="center">
+  <b>AI safety · resilient hardware · secure software</b><br/>
+  B.Tech CSE (AI &amp; ML), SRM Institute of Science and Technology, Ramapuram · CGPA 9.52
+</p>
 
-### 🔍 How I Think
-
-I see every technical challenge as a **"Capture The Flag" (CTF)** event—a puzzle that requires both a high-level strategy and a deep understanding of the underlying infrastructure. Whether I’m hosting a **"Shell Smash" CTF** for my university or troubleshooting a local server on a **VM**, I enjoy the "under-the-hood" mechanics of technology.
-
-### 🛰️ What I Build
-
-* **AI for Impact:** I’ve developed **Crop Health Management Systems** and predictive models (like **Sales Forecasters** and **Churn Predictors**) to turn raw data into actionable insights.
-* **Hardware for Resilience:** I’m fascinated by **LoRa-based mesh networks**. I built a **rescue device** for disaster scenarios because I believe communication shouldn't stop just because the mobile network does.
-* **The "Fixer" Mindset:** My curiosity doesn't stop at the code. I’m just as comfortable **repairing a laptop motherboard** or a **bike’s spark plug wire** as I am writing a Python script.
-
-### 📚 My Current Mission
-
-Right now, I’m following a rigorous **DSA and ML roadmap**, sharpening my algorithmic thinking while exploring the latest in **Deep Learning**. I’m a firm believer in **"learning by doing"**—if it’s broken, I’ll fix it; if it doesn't exist, I'll build it.
+<p align="center">
+  <a href="https://about-me-sandy-chi.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff6b2c?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/arhemanth"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhemanth) 
+I treat every problem like a capture-the-flag: understand the system under the hood, then find the cleanest way through. I build AI people can rely on, hardware that keeps talking when networks fail, and software that's safe by design.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+### Highlights
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemanth05065&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hemanth05065&theme=tokyonight&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth05065&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📄 **Research paper accepted:** *Safety and Security of Artificial Intelligence: Addressing Biases, Uncontrolled Autonomy, and Governance Challenges in Autonomous Systems*. 20th International Conference on Webometrics, Informetrics & Scientometrics (WIS) & 25th COLLNET Meeting, Sri Lanka.
+- 🧾 **Patent application filed:** a unified framework that audits deployed AI for bias, adversarial attacks, human-oversight gaps and regulatory compliance in one pass.
+- 🏛️ **Smart India Hackathon 2026:** built JANSETU for problem statement SIH26043.
+- 🚩 **Hosted the "Shell Smash" CTF** at my university.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Featured work
 
----
-[![](https://visitcount.itsvg.in/api?id=Hemanth05065&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | What it is | Stack |
+|---|---|---|
+| [**personal-ai**](https://github.com/Hemanth05065/personal-ai) | Private assistant on your own PC. The model can only *propose* actions; the server approves, runs and audits them. **0 unapproved writes in 450 prompt-injection runs.** | Python · Ollama · Pyodide · OPA |
+| [**JANSETU**](https://github.com/Hemanth05065/JANSETU-UPDATED) | SIH 2026: citizens report local problems, an AI classifier routes each to the best-fit university or industry partner, tracked to a confirmed fix. | React · TypeScript · Supabase |
+| [**PoCkEt-CoM**](https://github.com/Hemanth05065/PoCkEt-CoM) | Off-grid SOS messenger: phone → Bluetooth → ESP32 → **LoRa radio** → gateway → live dashboard. Works with no cell signal. | ESP32 · LoRa SX1278 · GPS · Firebase |
+| [**Synapse HR**](https://github.com/Hemanth05065/AI-EMPLOYEE-AND-HR-INTELLIGENCE-PLATFORM-) | HR platform with employee and HR portals, analytics, and Gemini-powered chatbot and missed-punch alerts. | Next.js · Genkit · TypeScript |
+
+### Toolbox
+
+**Languages:** Python · TypeScript · Java · C++ · C · Dart<br/>
+**AI / ML:** PyTorch · TensorFlow · scikit-learn · NumPy · Pandas · Ollama (local LLMs) · Genkit<br/>
+**Web & data:** React · Next.js · Supabase / Postgres · Firebase · MySQL · MongoDB<br/>
+**Hardware & infra:** ESP32 · Arduino · LoRa · Docker · Cloudflare · Linux
+
+### Right now
+
+Semester 5 of 8, working through a DSA and deep-learning roadmap, with AI safety and local-first AI as the through-line.
