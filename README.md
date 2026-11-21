@@ -1,38 +1,131 @@
-# 💫 About Me:
+<div align="center">
 
-I’m a **2nd-year CSE-AIML student** who believes that true innovation happens at the intersection of **Artificial Intelligence** and **Physical Hardware**. I don't just want to build models; I want to build systems that solve real-world problems.
+<img src="./assets/header.svg" alt="A.R. Hemanth — AI safety, off-grid hardware, secure software" width="100%"/>
 
-### 🔍 How I Think
+<a href="https://about-me-sandy-chi.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00c853?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arhemanth"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Hemanth05065?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/REPOS-161b22?style=for-the-badge&logo=github&logoColor=white"></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Hemanth05065&style=for-the-badge&color=00e5ff&label=VIEWS">
 
-I see every technical challenge as a **"Capture The Flag" (CTF)** event—a puzzle that requires both a high-level strategy and a deep understanding of the underlying infrastructure. Whether I’m hosting a **"Shell Smash" CTF** for my university or troubleshooting a local server on a **VM**, I enjoy the "under-the-hood" mechanics of technology.
+<br/><br/>
 
-### 🛰️ What I Build
+<img src="./assets/terminal.svg" alt="terminal intro" width="85%"/>
 
-* **AI for Impact:** I’ve developed **Crop Health Management Systems** and predictive models (like **Sales Forecasters** and **Churn Predictors**) to turn raw data into actionable insights.
-* **Hardware for Resilience:** I’m fascinated by **LoRa-based mesh networks**. I built a **rescue device** for disaster scenarios because I believe communication shouldn't stop just because the mobile network does.
-* **The "Fixer" Mindset:** My curiosity doesn't stop at the code. I’m just as comfortable **repairing a laptop motherboard** or a **bike’s spark plug wire** as I am writing a Python script.
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-### 📚 My Current Mission
+</div>
 
-Right now, I’m following a rigorous **DSA and ML roadmap**, sharpening my algorithmic thinking while exploring the latest in **Deep Learning**. I’m a firm believer in **"learning by doing"**—if it’s broken, I’ll fix it; if it doesn't exist, I'll build it.
+> 🚩 *I treat every problem like a capture-the-flag: understand the system under the hood, then find the cleanest way through.*
+> I build **AI people can rely on**, **hardware that keeps talking when networks fail**, and **software that's safe by design**.
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhemanth) 
+## ⚡ Highlights
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemanth05065&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hemanth05065&theme=tokyonight&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth05065&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📄 Research paper accepted
+*Safety and Security of Artificial Intelligence: Addressing Biases, Uncontrolled Autonomy, and Governance Challenges in Autonomous Systems*
+<sub>20th International Conference on Webometrics, Informetrics & Scientometrics (WIS) & 25th COLLNET Meeting, Sri Lanka</sub>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+<td width="50%" valign="top">
 
----
-[![](https://visitcount.itsvg.in/api?id=Hemanth05065&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧾 Patent application filed
+A unified framework that audits deployed AI for **bias, adversarial attacks, human-oversight gaps and regulatory compliance**, all in one pass.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Smart India Hackathon 2026
+Built **JANSETU** for problem statement **SIH26043**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚩 CTF host
+Hosted the **"Shell Smash"** CTF at my university.
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [personal-ai](https://github.com/Hemanth05065/personal-ai)
+Private assistant on your own PC. The model can only *propose* actions; the server approves, runs and audits them.
+
+**0 unapproved writes in 450 prompt-injection runs.**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="32"/> `Ollama` `Pyodide` `OPA`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [JANSETU](https://github.com/Hemanth05065/JANSETU-UPDATED)
+SIH 2026: citizens report local problems, an AI classifier routes each to the best-fit university or industry partner, tracked to a confirmed fix.
+
+<img src="https://skillicons.dev/icons?i=react,ts,supabase&theme=dark" height="32"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [PoCkEt-CoM](https://github.com/Hemanth05065/PoCkEt-CoM)
+Off-grid SOS messenger: phone → Bluetooth → ESP32 → **LoRa radio** → gateway → live dashboard. Works with no cell signal.
+
+<img src="https://skillicons.dev/icons?i=arduino,firebase,cpp&theme=dark" height="32"/> `ESP32` `LoRa SX1278` `GPS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Synapse HR](https://github.com/Hemanth05065/AI-EMPLOYEE-AND-HR-INTELLIGENCE-PLATFORM-)
+HR platform with employee and HR portals, analytics, and Gemini-powered chatbot and missed-punch alerts.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts&theme=dark" height="32"/> `Genkit`
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,java,cpp,c,dart,pytorch,tensorflow,sklearn,numpy,pandas,react,nextjs,supabase,postgres,firebase,mysql,mongodb,arduino,docker,cloudflare,linux&theme=dark&perline=11" alt="tech stack"/>
+</p>
+
+<sub>**AI / ML:** PyTorch · TensorFlow · scikit-learn · Ollama (local LLMs) · Genkit &nbsp;|&nbsp; **Hardware:** ESP32 · Arduino · LoRa</sub>
+
+## 🎯 Right now
+
+```text
+Semester 5 / 8   ██████████████░░░░░░  CGPA 9.52
+DSA + Deep Learning roadmap   ▓▓▓▓▓▓▓▓░░░░
+Through-line: AI safety · local-first AI
+```
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanth05065/Hemanth05065/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Hemanth05065/Hemanth05065/output/github-snake.svg" width="100%"/>
+  </picture>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth05065&show_icons=true&hide_border=true&bg_color=020a05&title_color=00ff66&text_color=b8ffd0&icon_color=00ff66" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth05065&layout=compact&hide_border=true&bg_color=020a05&title_color=00ff66&text_color=b8ffd0&icon_color=00ff66" height="165" alt="top languages"/>
+
+  <br/><br/>
+  <img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
